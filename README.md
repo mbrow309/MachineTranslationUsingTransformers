@@ -8,8 +8,13 @@ Luckily, the Bleu score achieved for this model is 0.45 which is considered to b
 for to collect more knowledge, you can read the following link
 
 http://nlp.seas.harvard.edu/2018/04/03/attention.html
+
 https://charon.me/posts/pytorch/pytorch_seq2seq_1/
+
 https://github.com/bentrevett/pytorch-seq2seq
+
 https://www.guru99.com/seq2seq-model.html
+
 https://arxiv.org/pdf/1409.3215.pdf
+
 https://machinelearningmastery.com/calculate-bleu-score-for-text-python/#:~:text=The%20Bilingual%20Evaluation%20Understudy%20Score,in%20a%20score%20of%200.0
